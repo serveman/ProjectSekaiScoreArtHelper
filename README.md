@@ -29,7 +29,7 @@
 
 ## 📥 다운로드
 
-[👉 최신 버전 다운로드 (v1.1)](https://github.com/serveman/ProSekaiEventCalculator/releases/latest/download/ProSekaiEventCalculator.exe)
+[👉 최신 버전 다운로드 (v1.1)](https://github.com/serveman/ProjectSekaiScoreArtHelper/releases/latest/download/ProSekaiEventCalculator.exe)
 
 - 지원 OS: **Windows 11 (64bit)**
 - 압축 해제 후 `ProSekaiEventCalculator.exe` 실행
@@ -83,7 +83,7 @@
 
 ## ⭐ 기여 & 제안
 
-오타, 개선 제안, 기능 요청 등은 언제든 [Issues](https://github.com/YourUsername/ProSekaiEventCalculator/issues) 또는 PR로 남겨주세요!
+오타, 개선 제안, 기능 요청 등은 언제든 [Issues](https://github.com/serveman/ProjectSekaiScoreArtHelper/issues) 또는 PR로 남겨주세요!
 
 ---
 
