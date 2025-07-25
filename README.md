@@ -29,13 +29,13 @@
 > 다국어 지원 예시:
 
 ### 한국어 (Korean)
-![Korean Interface](Main_KR.png)
+![Korean Interface](Main_kr.png)
 
 ### 日本語 (Japanese) 
-![Japanese Interface](Main_JP.png)
+![Japanese Interface](Main_jp.png)
 
 ### English (Global)
-![English Interface](Main_EN.png)
+![English Interface](Main_en.png)
 
 ### 계산 결과 화면
 ![Result Screen](Result.png)
